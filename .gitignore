@@ -1,0 +1,8 @@
+
+build/*
+!build/hello.bmp
+
+lib/imgui
+lib/imgui/*
+lib/SDL
+lib/SDL/*
