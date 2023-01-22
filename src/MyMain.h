@@ -1,10 +1,11 @@
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <cstdio>
 #include <thread>
 #include <memory>
 #include <functional>
 #include <unistd.h>
 #include <cstdlib>
+#include <string>
 
 
 class MyMain {
